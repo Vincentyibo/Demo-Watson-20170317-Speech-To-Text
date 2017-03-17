@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: Wang Yibo-Demo Speech To Text
+  host: Wang-Yibo-Demo-Speech-To-Text
+  disk_quota: 1024M
